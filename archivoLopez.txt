@@ -1,1 +1,3 @@
 Compañero B cambio para buscar conflicto 
+Este archivo lo hizo el compañero B para practicar el uso de git
+
