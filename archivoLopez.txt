@@ -1,1 +1,1 @@
-Este archivo lo hizo el compañero B
+Este archivo lo hizo el compañero B para practicar el uso de git
